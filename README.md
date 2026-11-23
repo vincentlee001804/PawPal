@@ -1,6 +1,6 @@
 # PawPal
 
-**Pet Care Scheduler & Nearby Pet Service Finder** — a pet-care management app for the CSS3344 Mobile Application Development / CSS3453 IT Project Management group assignment.
+**Pet Care Scheduler & Nearby Pet Service Finder** — a pet-care management app.
 
 PawPal helps pet owners manage pet profiles, care schedules, appointment and vaccination records, reminders, and discover nearby pet services. It is an organisational tool — never veterinary advice.
 
